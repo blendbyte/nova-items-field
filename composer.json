@@ -1,6 +1,6 @@
 {
     "name": "blendbyte/nova-items-field",
-    "description": "Nova field to handle array columns",
+    "description": "Array items field for Laravel Nova with drag/drop sorting, validation & flexible display options. Fork of dillingham/nova-items-field, maintained for Nova 5.",
     "keywords": [
         "laravel",
         "nova"
