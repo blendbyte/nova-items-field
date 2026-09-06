@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/blendbyte/nova-items-field.svg?style=flat-square)](https://packagist.org/packages/blendbyte/nova-items-field)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](license.md)
+[![Plumb score](https://plumbphp.dev/badges/blendbyte/nova-items-field/composite.svg)](https://plumbphp.dev/blendbyte/nova-items-field)
 
 Laravel Nova array items field with sorting, validation & many [display options](#options).
 
